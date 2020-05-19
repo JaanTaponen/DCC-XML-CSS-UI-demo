@@ -16,7 +16,7 @@
                 <script type="text/javascript" src="../Stylesheets/JS/certificate-parser-min.js"></script>
                 <script type="text/javascript" src="../Stylesheets/JS/main.js"></script>
 
-                <link rel="manifest" href="/manifest.webmanifest"></link>
+                <link rel="manifest" href="../../manifest.webmanifest"></link>
 
                 <!-- Remember to include jQuery :) -->
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>

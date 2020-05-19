@@ -15,5 +15,5 @@ services:
     volumes:
     - ./project-files/XML:/app/XML
     ports:
-    - 10001:10001
-
+      - "8083:80"
+      - "445:443"
